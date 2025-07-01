@@ -1,2 +1,2 @@
-# hand-gesture-launcher
-проект-распознавание-жестов(с помощью ии), hand-gesture-launcher(with the help of ai)
+##  GitHub проекта
+[https://github.com/Cry216/hand-gesture-launcher](https://github.com/Cry216/hand-gesture-launcher)
